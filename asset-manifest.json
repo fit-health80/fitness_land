@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fitness_land/static/css/main.b5c6b242.css",
+    "main.js": "/fitness_land/static/js/main.55c7c568.js",
+    "index.html": "/fitness_land/index.html",
+    "main.b5c6b242.css.map": "/fitness_land/static/css/main.b5c6b242.css.map",
+    "main.55c7c568.js.map": "/fitness_land/static/js/main.55c7c568.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5c6b242.css",
+    "static/js/main.55c7c568.js"
+  ]
+}
