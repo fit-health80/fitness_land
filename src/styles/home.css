@@ -1,0 +1,22 @@
+.hero-section {
+  padding: 120px 0;
+  text-align: center;
+  background: radial-gradient(circle at top, #222, black);
+}
+
+.hero-section h1 {
+  color: greenyellow;
+  font-size: 5rem;
+  font-weight: 900;
+}
+
+.hero-subtitle {
+  color: lightgray;
+  margin-top: 20px;
+}
+
+.section-title {
+  color: greenyellow;
+  text-align: center;
+  margin-top: 80px;
+}
